@@ -1,0 +1,16 @@
+{
+    "id": "yk-screenRecord",
+    "name": "实现微信小程序安卓IOS禁止截屏、录屏功能",
+    "displayName": "实现微信小程序安卓IOS禁止截屏、录屏功能",
+    "version": "1.0.0",
+    "description": "禁止截屏、录屏功能，支持安卓、IOS、小程序等多端通用，哪里需要那里应引用即可，方便快捷",
+    "keywords": [
+        "uniapp、微信小程序、截屏、录屏、方便快捷"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}

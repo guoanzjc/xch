@@ -1,0 +1,40 @@
+{
+    "pages": [
+        "pages/come/come",
+        "pages/user/user",
+        "pages/index/index",
+        "pages/temp/temp",
+        "pages/detail/detail",
+        "pages/shai/shai",
+        "pages/dian/dian"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "",
+        "navigationBarBackgroundColor": "#ffffff",
+        "backgroundColor": "#ffffff"
+    },
+    "tabBar": {
+        "color": "#7A7E83",
+        "selectedColor": "#cccccc",
+        "borderStyle": "black",
+        "backgroundColor": "#ffffff",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "iconPath": "static/index.png",
+                "selectedIconPath": "static/index.png",
+                "text": "首页"
+            },
+            {
+                "pagePath": "pages/user/user",
+                "iconPath": "static/my.png",
+                "selectedIconPath": "static/my.png",
+                "text": "用户"
+            }
+        ]
+    },
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

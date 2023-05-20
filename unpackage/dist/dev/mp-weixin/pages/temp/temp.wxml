@@ -1,0 +1,1 @@
+<view class="page"><image class="logo" src="/static/home.jpg" mode="widthFix"></image><block wx:if="{{isRecording}}"><view class="zzc_mol"></view></block></view>
